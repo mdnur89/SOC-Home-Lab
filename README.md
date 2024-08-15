@@ -1,2 +1,1 @@
-# SOC-Home-Lab
-A SOC Test Lab
+A guide to builing a lab for traffic analysis and incident response.
