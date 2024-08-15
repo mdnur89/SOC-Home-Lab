@@ -1,4 +1,4 @@
-![alt text](crowdsec_pfsense-2.png)
+![alt text](images/crowdsec_pfsense-2.png)
 
 ## A guide to builing a lab for traffic analysis and incident response.
 
